@@ -1,0 +1,11 @@
+.container {
+	background-image: url('../images/bg_1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+.body-info{
+	background: rgb(208,228,247);
+}
